@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I'm a  `Junior` python developer who started my career with platzi.
+- :school: I'm a  `Python Developer` who started my career with platzi.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Hackerrank`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.

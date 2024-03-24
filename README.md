@@ -7,6 +7,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+
 - :school: I'm a  `Python Developer` who started my career with platzi.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Hackerrank`.
@@ -36,13 +37,16 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,django,vscode,react,postgres" />
   </a>
 </p>
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving 
 <p align="center">
   &emsp;
     <a href="https://www.hackerrank.com/profile/ezequielcastell1"><img alt = "Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whit" /></a>	
   &emsp;
 <br> 
+	
 </br></br>
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
